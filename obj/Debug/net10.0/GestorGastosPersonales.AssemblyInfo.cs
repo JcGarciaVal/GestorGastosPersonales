@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GestorGastosPersonales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d4acf4c990933d740a51f918f364f7befbef4e2e")]
 [assembly: System.Reflection.AssemblyProductAttribute("GestorGastosPersonales")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GestorGastosPersonales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
