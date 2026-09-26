@@ -1,0 +1,14 @@
+/home/kamekill/Projects/ControlGastosPersonales/bin/Debug/net10.0/ControlGastosPersonales
+/home/kamekill/Projects/ControlGastosPersonales/bin/Debug/net10.0/ControlGastosPersonales.deps.json
+/home/kamekill/Projects/ControlGastosPersonales/bin/Debug/net10.0/ControlGastosPersonales.runtimeconfig.json
+/home/kamekill/Projects/ControlGastosPersonales/bin/Debug/net10.0/ControlGastosPersonales.dll
+/home/kamekill/Projects/ControlGastosPersonales/bin/Debug/net10.0/ControlGastosPersonales.pdb
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.GeneratedMSBuildEditorConfig.editorconfig
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.AssemblyInfoInputs.cache
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.AssemblyInfo.cs
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.csproj.CoreCompileInputs.cache
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.dll
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/refint/ControlGastosPersonales.dll
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.pdb
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ControlGastosPersonales.genruntimeconfig.cache
+/home/kamekill/Projects/ControlGastosPersonales/obj/Debug/net10.0/ref/ControlGastosPersonales.dll
